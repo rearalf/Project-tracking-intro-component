@@ -1,0 +1,10 @@
+.cubo {
+	background-color: var(--LightGrayishBlue);
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 50vw;
+	height: 50%;
+	z-index: -1;
+	border-bottom-left-radius: 5rem;
+}

@@ -1,0 +1,19 @@
+.attribution {
+	font-size: .8em;
+	text-align: center;
+}
+.attribution a {
+	color: var(--VeryDarkBlue);
+}
+
+footer {
+	height: 2rem;
+}
+
+@media screen and (min-width: 1024px) {
+	footer {
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
+}
